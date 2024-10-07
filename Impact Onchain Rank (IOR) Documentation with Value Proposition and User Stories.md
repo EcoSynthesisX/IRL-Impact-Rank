@@ -1,4 +1,4 @@
-# Impact Onchain Rank (IOR) Documentation
+# IRL Impact Rank Documentation
 
 ## Introduction
 Impact Onchain Rank (IOR) is a novel metric that quantifies and rewards the contributions of individuals and organizations to impactful causes via Impact NFTs (INFTs).
